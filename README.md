@@ -1,6 +1,6 @@
 # Final Project: School Tribute Website 🎓
 
-This project is a tribute website developed as the final work for a technical course in computer science. It honors the history and legacy of Colégio Estadual Professor Afonso Pena Júnior.
+This project is a tribute website developed as the final work for a technical course in computer science. It honors the history and legacy of Faculdades e Colégio Aphonsiano.
 
 ## 📜 Description
 
